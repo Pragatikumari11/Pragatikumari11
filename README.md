@@ -1,6 +1,6 @@
 - :
 
-👋 Hi, I’m @Pragatikumari11! I'm a 3rd-year engineering student with a keen interest in frontend development, machine learning (ML), and Data Structures and Algorithms (DSA) using C++. I have a solid understanding of DSA concepts, which I utilize to optimize algorithms and manage data structures effectively.
+👋 Hi, I’m @Pragatikumari11! I'm a 4th-year engineering student with a keen interest in frontend development, machine learning (ML), and Data Structures and Algorithms (DSA) using C++. I have a solid understanding of DSA concepts, which I utilize to optimize algorithms and manage data structures effectively.
 
 Currently, I'm learning various frontend technologies such as HTML, CSS, JavaScript, and frameworks like React.js. I enjoy creating engaging user interfaces and interactive experiences for web applications.
 
